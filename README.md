@@ -1,4 +1,4 @@
-## Rick and morty human database Backend
+## Rick and morty human database FrontEnd
 
 ### Getting started:
 
